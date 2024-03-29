@@ -32,10 +32,10 @@ Afin d'améliorer la couverture du code.
 - NodeJS  >= v16.14.1
 
 ## Installation
-- `yarn install`
+- `npm install`
 
 ## Lancement de l'application
-- `yarn start`
+- `npm start`
 
 ## Tests
-- `yarn test`
+- `npm test`
