@@ -131,16 +131,16 @@ const Page = () => {
         <div>contact@77events.com</div>
         <div>
           <a href="#twitch">
-            <Icon name="twitch" />
+            <Icon name="twitch" aria-label="twitch-icon"/>
           </a>
           <a href="#facebook">
-            <Icon name="facebook" />
+            <Icon name="facebook" aria-label="facebook-icon" />
           </a>
           <a href="#twitter">
-            <Icon name="twitter" />
+            <Icon name="twitter" aria-label="twitter-icon" />
           </a>
           <a href="#youtube">
-            <Icon name="youtube" />
+            <Icon name="youtube" aria-label="youtube-icon" />
           </a>
         </div>
       </div>
